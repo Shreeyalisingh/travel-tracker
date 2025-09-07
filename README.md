@@ -27,6 +27,15 @@ Organizations struggle to track, manage, and optimize employee travel expenses. 
 - **Predictive Analytics** – Forecasting future travel expenses.
 - **Integration with ERP Systems** – Seamless connectivity with corporate tools.
 
+## DashBoards
+
+<img src="1.png"/><br/>
+<img src="2.png"/><br/>
+<img src="3.png"/><br/>
+
+
+
+
 ## 📩 Contributing
 Feel free to contribute! Open an issue or submit a pull request for enhancements or bug fixes.
 
